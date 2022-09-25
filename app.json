@@ -1,8 +1,8 @@
 {
-  "name": "Cyber-X WA BOT",
+  "name": "LAKIYA WA BOT",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release",
-  "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+  "logo": "https://telegra.ph/file/8261fb730e44988aa8c93.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
