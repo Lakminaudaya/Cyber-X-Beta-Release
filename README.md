@@ -1,4 +1,4 @@
-##                       CYBER-X TESTING WHATSAPP BOT
+##                      LAKIYA TESTING WHATSAPP BOT
 
 <p align = center>   <img src="https://telegra.ph/file/8261fb730e44988aa8c93.jpg" alt="GIF" width="250" height="250"/> </p>
 
@@ -7,7 +7,7 @@
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
 ## Deploy Link Template 
-```https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release```
+```https://heroku.com/deploy?template=https://github.com/Lakminaudaya/Cyber-X-Beta-Release.git```
 ## Support Group 
 https://chat.whatsapp.com/CnCkAre9UiZBqbkGr8CV9L
 
@@ -24,7 +24,7 @@ https://chat.whatsapp.com/CnCkAre9UiZBqbkGr8CV9L
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-4. Click [FORK](https://github.com/darkalphaxteam/Cyber-X-Beta-Release/fork)
+4. Click [FORK](https://github.com/Lakminaudaya/Cyber-X-Beta-Release.git)
 5. Upload Session.json You Forked Repo
 6. Deploy And Enjoy
 
