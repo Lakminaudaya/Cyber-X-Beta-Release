@@ -46,20 +46,20 @@ global.location = "Sri Lanka, Gampaha, Kirindiwela" //ur location
 global.owner = ['94770075694']
 global.ownertag = '94770075694' //ur tag number
 global.botnumber = '94770075694' //Add your Bot Number For Log
-global.botname = '♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧 ϟ⓿' //ur bot name
+global.botname = '🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️' //ur bot name
 global.ig = "https://youtube.com/shorts/KoC0M9BIXxY?feature=share" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/shorts/KoC0M9BIXxY?feature=share" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtube.com/shorts/KoC0M9BIXxY?feature=share'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧 ϟ⓿" //ur sticker watermark packname
+global.packname = "🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️" //ur sticker watermark packname
 global.author = "Lakiya Official" //ur sticker watermark author
-global.footer = "♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧 ϟ⓿"
-global.aliveimg ="https://telegra.ph/file/8261fb730e44988aa8c93.jpg"
-global.allmenuimg ="https://telegra.ph/file/8261fb730e44988aa8c93.jpg"
-global.welcomeimg= "https://telegra.ph/file/8261fb730e44988aa8c93.jpg"
-global.gbyeimg = "https://telegra.ph/file/8261fb730e44988aa8c93.jpg"
+global.footer = "🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️"
+global.aliveimg ="https://i.ibb.co/cCnNBPZ/20221005-121833.png"
+global.allmenuimg ="https://i.ibb.co/cCnNBPZ/20221005-121833.png"
+global.welcomeimg= "https://i.ibb.co/cCnNBPZ/20221005-121833.png"
+global.gbyeimg = "https://i.ibb.co/cCnNBPZ/20221005-121833.png"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
