@@ -9,7 +9,7 @@ https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#ind
 ## Deploy Link Template 
 ```https://heroku.com/deploy?template=https://github.com/Lakminaudaya/Cyber-X-Beta-Release.git```
 ## Support Group 
-https://chat.whatsapp.com/CnCkAre9UiZBqbkGr8CV9L
+https://chat.whatsapp.com/H9oBjtVhxep3eZv0tgD7hZ
 
 
 ## In some cases, the bot may stop working automatically as soon as the button issue is resolved. So, if it happens, turn the restart Bot. I will find a solution soon.
